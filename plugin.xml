@@ -103,7 +103,7 @@
 			target-dir="src/com/pushwoosh/plugin/internal" />
 
 
-		<!--<framework src="com.google.android.gms:play-services-gcm:11.+" />-->
+		<framework src="com.google.android.gms:play-services-gcm:11.+" />
 		<framework src="com.google.android.gms:play-services-location:11.+" />
 
 		<framework src="com.google.firebase:firebase-core:11.+" />
